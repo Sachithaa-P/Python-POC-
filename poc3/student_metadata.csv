@@ -1,0 +1,12 @@
+FieldName,DataType,Length
+student_id,INT,11
+first_name,VARCHAR,50
+last_name,VARCHAR,50
+dob,DATE,10
+age,INT,3
+gender,VARCHAR,10
+grade,VARCHAR,5
+address,VARCHAR,255
+email,VARCHAR,100
+phone_number,INT,15
+enrollment_date,DATE,10

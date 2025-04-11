@@ -1,0 +1,6 @@
+Error: 1146 (42S02): Table 'my_database.students' doesn't exist
+Invalid SQL Command: select * from students;
+
+Error: 1146 (42S02): Table 'my_database.students' doesn't exist
+Invalid SQL Command: select * from students;
+
